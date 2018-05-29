@@ -1,0 +1,16 @@
+{
+  "name": "15.4_es6_skladnia",
+  "version": "1.0.0",
+  "main": "exercise1.js",
+  "scripts": {
+    "start": "babel excercises.js --watch --out-file excercises-compiled.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
